@@ -34,7 +34,7 @@ Disable PHP 5 repositories and enable PHP 7.2 repo.
 ```
 ## Step4 Install PHP
 ```
-# yum install php php-pear php-cgi php-common php-mbstring php-snmp php-gd php-pecl-mysql php-xml php-mysql php-gettext php-bcmath
+# yum -y install php php-pear php-cgi php-common php-mbstring php-snmp php-gd php-pecl-mysql php-xml php-mysql php-gettext php-bcmath
 ```
 Edit the php.ini file.
 ```
