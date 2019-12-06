@@ -64,7 +64,7 @@ Start the MariaDB service.
 ```
 Enable MariaDB on system boot.
 ```
-# systemctl enable mariadb
+# systemctl enable mariadb.service
 ```
 Run the following command to secure MariaDB.
 ```
